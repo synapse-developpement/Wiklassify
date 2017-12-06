@@ -1,0 +1,100 @@
+0;"p3p3661_181737";nbr_wr
+1;"p3p3661_1115892";ortho_gram_typo
+2;"p3p3661_248902";ortho_gram_typo
+3;"p3p3661_931556";content_remove, nbr_wr
+4;"p3p3661_494479";content_add
+5;"p3p3661_369947";ortho_gram_typo, content_remove
+6;"p3p3661_1166851";semant_diff
+7;"p3p3661_859786";ortho_gram_typo
+8;"p3p3661_436582";vandal
+9;"p3p3661_138616";vandal
+10;"p3662p10075_959918";wiki_formatting
+11;"p3662p10075_876788";content_add
+12;"p3662p10075_732991";wiki_formatting
+13;"p3662p10075_860045";wiki_formatting
+14;"p3662p10075_1276063";wiki_formatting
+15;"p3662p10075_755278";ortho_gram_typo
+16;"p3662p10075_860649";vandal
+17;"p3662p10075_203439";wiki_formatting, content_add
+18;"p3662p10075_721765";vandal
+19;"p3662p10075_826320";other
+20;"p10076p18526_843530";vandal
+21;"p10076p18526_55869";ortho_gram_typo
+22;"p10076p18526_567916";semant_diff
+23;"p10076p18526_354987";other
+24;"p10076p18526_771299";ortho_gram_typo
+25;"p10076p18526_17979";wiki_formatting
+26;"p10076p18526_1314639";vandal
+27;"p10076p18526_1286210";semant_diff
+28;"p10076p18526_1295030";content_add
+29;"p10076p18526_3171";wiki_formatting
+30;"p18527p30361_7310";content_add
+31;"p18527p30361_670871";ortho_gram_typo, content_remove, content_add
+32;"p18527p30361_1134839";ortho_gram_typo, content_add
+33;"p18527p30361_498519";wiki_formatting
+34;"p18527p30361_1483832";semant_simil
+35;"p18527p30361_668879";revert_vandal
+36;"p18527p30361_48776";ortho_gram_typo, wiki_formatting
+37;"p18527p30361_622879";wiki_formatting
+38;"p18527p30361_784728";ortho_gram_typo, wiki_formatting, content_add
+39;"p18527p30361_351908";vandal
+40;"p30362p43904_243603";ortho_gram_typo
+41;"p30362p43904_1057335";reordering
+42;"p30362p43904_921339";wiki_formatting
+43;"p30362p43904_1319709";ortho_gram_typo
+44;"p30362p43904_1173190";ortho_gram_typo
+45;"p30362p43904_673106";ortho_gram_typo
+46;"p30362p43904_1502006";semant_diff
+47;"p30362p43904_148113";content_add
+48;"p30362p43904_556366";wiki_formatting
+49;"p30362p43904_1471820";vandal
+50;"p43905p56252_285454";ortho_gram_typo
+51;"p43905p56252_869504";ortho_gram_typo, semant_simil
+52;"p43905p56252_829635";wiki_formatting, reordering, content_add
+53;"p43905p56252_872271";content_add
+54;"p43905p56252_380885";wiki_formatting
+55;"p43905p56252_291559";nbr_wr
+56;"p43905p56252_874028";revert_vandal
+57;"p43905p56252_973228";content_add
+58;"p43905p56252_585972";wiki_formatting
+59;"p43905p56252_1498911";ortho_gram_typo, content_add
+60;"p56253p71552_1110000";semant_simil
+61;"p56253p71552_751961";content_remove
+62;"p56253p71552_498475";other
+63;"p56253p71552_599061";ortho_gram_typo
+64;"p56253p71552_884745";wiki_formatting
+65;"p56253p71552_212557";wiki_formatting
+66;"p56253p71552_990424";content_add
+67;"p56253p71552_848258";semant_diff
+68;"p56253p71552_1135652";semant_simil
+69;"p56253p71552_141210";ortho_gram_typo
+70;"p71553p89754_405858";ortho_gram_typo, content_add
+71;"p71553p89754_1387958";wiki_formatting
+72;"p71553p89754_241596";semant_diff
+73;"p71553p89754_1117907";ortho_gram_typo, semant_simil
+74;"p71553p89754_735960";content_remove
+75;"p71553p89754_1347853";content_remove
+76;"p71553p89754_1363935";wiki_formatting, content_remove
+77;"p71553p89754_1228665";content_add
+78;"p71553p89754_546343";semant_simil
+79;"p71553p89754_615934";ortho_gram_typo, reordering
+80;"p89755p107570_1502611";semant_diff
+81;"p89755p107570_463732";semant_diff
+82;"p89755p107570_741801";semant_diff
+83;"p89755p107570_1213478";semant_simil
+84;"p89755p107570_1501504";ortho_gram_typo, wiki_formatting
+85;"p89755p107570_440578";content_remove
+86;"p89755p107570_597336";wiki_formatting
+87;"p89755p107570_1095571";wiki_formatting
+88;"p89755p107570_158565";semant_simil
+89;"p89755p107570_836334";ortho_gram_typo
+90;"p107571p128187_464917";content_add
+91;"p107571p128187_1409484";semant_diff
+92;"p107571p128187_573263";nbr_wr
+93;"p107571p128187_1020191";content_add
+94;"p107571p128187_1477095";ortho_gram_typo, wiki_formatting
+95;"p107571p128187_229670";wiki_formatting, content_add
+96;"p107571p128187_144850";ortho_gram_typo, reordering
+97;"p107571p128187_992324";vandal
+98;"p107571p128187_822155";wiki_formatting, content_add
+99;"p107571p128187_770692";ortho_gram_typo, wiki_formatting
