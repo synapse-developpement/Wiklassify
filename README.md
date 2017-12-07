@@ -30,7 +30,9 @@ wget https://dumps.wikimedia.org/frwiki/20171001/frwiki-20171001-pages-meta-hist
 
 * nb3_visualizer_annotator.ipynb
 
-> Visualizes the content of each set of 100 text version pairs and assists the annotator in labelling each sample with **InterfaceAnnotation.exe**. For using that software, one needs to load <code>/path/classes.csv</code> as *Classification plan* and <code>/path/XX_XX_pre_annot.csv</code> as *Corpus CSV file*. Then it suffices to tick the boxes corresponding to relevant labels for each observation. After each session, the labelling software returns a new file renamed <code>XX_XX_post_annot.csv</code> and stored in <code>annotations</code> folder. One observation can be tagged with one or more of 14 labels.
+> Visualizes the content of each set of 100 text version pairs and assists the annotator in labelling each sample with **InterfaceAnnotation.exe**. For using that software, one needs to load <code>/path/classes.csv</code> as *Classification plan* and <code>/path/XX_XX_pre_annot.csv</code> as *Corpus CSV file*. Then it suffices to tick the boxes corresponding to relevant labels for each observation on the left panel. The right panel displays the sample_id for ensuring that the annotator is labelling the right observation. After each session, the labelling software returns a new file renamed <code>XX_XX_post_annot.csv</code> and stored in <code>annotations</code> folder. One observation can be tagged with one or more of 14 labels.
+
+![alt text](https://github.com/synapse-developpement/Wiklassify/raw/master/data/annotation_kit/Capture.PNG)
 
 * nb4_multilabelling_classification.ipynb
 
