@@ -22,7 +22,7 @@ wget https://dumps.wikimedia.org/frwiki/20171001/frwiki-20171001-pages-meta-hist
 
 * nb1_xml_extractor.ipynb
 
-> Extracts modifications between two consecutive edits from <code>.xml</code> files and turn all samples into a pandas dataframe saved as a <code>XX-meta-historyX.xml-pXXXXpXXXX.tsv</code> file stored in folder <code>/tsv_output</code>. Each output file contains around 1.5 million pairs of text versions.
+> Extracts modifications between two consecutive edits from <code>.xml</code> files and turn all samples into a pandas dataframe saved as a <code>XX-meta-historyX.xml-pXXXXpXXXX.tsv</code> file stored in folder <code>/tsv_output</code>. Each output file contains around 1.5 million pairs of text versions. An input <code>.xml</code> file has an average compressed volume of 250 MB that rises to around 28 GB when decompressed. The average time for extracting version pairs is 5 hours (median is 3 hours).
     
 * nb2_tsv_sampling.ipynb
 
@@ -30,7 +30,7 @@ wget https://dumps.wikimedia.org/frwiki/20171001/frwiki-20171001-pages-meta-hist
 
 * nb3_visualizer_annotator.ipynb
 
-> Visualizes the content of each set of 100 text version pairs and assists the annotator in labelling each sample with **InterfaceAnnotation.exe**. For using that software, one needs to load <code>/path/classes.csv</code> as Classification plan and <code>/path/XX_XX_pre_annot.csv</code> as Corpus CSV file. Then it suffices to tick the boxes corresponding to relevant labels for each observation. After each session, the labelling software returns a new file renamed <code>XX_XX_post_annot.csv</code> and stored in <code>annotations</code> folder. One observation can be tagged with one or more of 14 labels.
+> Visualizes the content of each set of 100 text version pairs and assists the annotator in labelling each sample with **InterfaceAnnotation.exe**. For using that software, one needs to load <code>/path/classes.csv</code> as *Classification plan* and <code>/path/XX_XX_pre_annot.csv</code> as *Corpus CSV file*. Then it suffices to tick the boxes corresponding to relevant labels for each observation. After each session, the labelling software returns a new file renamed <code>XX_XX_post_annot.csv</code> and stored in <code>annotations</code> folder. One observation can be tagged with one or more of 14 labels.
 
 * nb4_multilabelling_classification.ipynb
 
