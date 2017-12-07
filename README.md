@@ -46,7 +46,7 @@ wget https://dumps.wikimedia.org/frwiki/20171001/frwiki-20171001-pages-meta-hist
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
+Please read [CONTRIBUTING.md](https://github.com/synapse-developpement/Wiklassify/blob/master/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
 
 ## Authors
 
