@@ -18,6 +18,13 @@ wget https://dumps.wikimedia.org/frwiki/20171001/frwiki-20171001-pages-meta-hist
 7z x frwiki-20171001-pages-meta-history1.xml-p3p3581.7z
 ```
 
+A file with the current version of all Wikipedia articles can be obtained with the commands below. It serves both as the training text for the skip-gram model and as ground truth.
+
+```
+wget https://dumps.wikimedia.org/frwiki/20171001/frwiki-20171001-pages-meta-current.xml.bz2
+bzip2 -dk frwiki-20171001-pages-meta-current.xml.bz2
+```
+
 ### Notebooks
 
 * nb1_xml_extractor.ipynb
