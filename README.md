@@ -8,7 +8,7 @@ This repository concerns the pieces of work related to detection of textual inco
 * Datasets<br>
    <code>XX-meta-historyX.xml-pXXXXpXXXX.tsv</code> files obtained from <code>.xml</code> from French Wikipedia dumps<br>
    <code>XX_XX_sample.tsv</code> annotated datasets with labels <code>XX_XX_post_annot.csv</code>
-* Description of the models and of the data.
+* Description of the models and of the data
 
 ### Data
 
