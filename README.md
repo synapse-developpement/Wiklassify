@@ -47,7 +47,7 @@ bzip2 -dk frwiki-20171001-pages-meta-current.xml.bz2
 
 * nb5_detection_semantic_incoherences.ipynb
 
-> Within hand-labeled semantics-related text version pairs, each text fragment is set apart as a single observation. The goal consists in building a model that can identify an incoherence from a single text sample.
+> Within hand-labeled semantics-related text version pairs, each text fragment is set apart as a single observation. The goal consists in building a model that can identify an incoherence from a single text sample. The word embeddings are obtained from a skip-gram model that is trained on current version of French Wikipedia articles. This training text can be obtained with this [Wikipedia extractor](https://github.com/bwbaugh/wikipedia-extractor).
 
 ## Built With
 
