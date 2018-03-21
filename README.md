@@ -60,7 +60,7 @@ Please read [CONTRIBUTING.md](https://github.com/synapse-developpement/Wiklassif
 
 ## Author
 
-[**Olivier Salaün**](https://github.com/oliviersalaun)
+[**Olivier Salaün**](https://github.com/oliviersalaun) (the master thesis based on this based is available upon [**request**](oliviersalaun2mail-github@yahoo.com)
 
 ## License
 
